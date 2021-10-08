@@ -25,7 +25,7 @@ VBUSPASSWORD=vbus<br>
 HTTPPORT=3333<br>
 LOGGINGINTERVAL=10000<br>
 
-## NodeRed Example Flows
+## Node-RED Example Flows
 ### Home Assistant
 Below  an example (just import to your node red flow) to fetch data from the server via JSON and write it into HA Entities.<br>
 <br>
