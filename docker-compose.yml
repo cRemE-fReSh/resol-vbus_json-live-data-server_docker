@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  dataserver:
+    image: node:lts
+    build: .
+    environment:
+      - VBUSIP
+      - VBUSPASSWORD
+      - LOGGINGINTERVAL
+      - HTTPPORT
+    ports:
+      - 3333     
