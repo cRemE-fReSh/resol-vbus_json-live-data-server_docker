@@ -1,5 +1,5 @@
 /*! resol-vbus | Copyright (c) 2013-2018, Daniel Wippermann | MIT license */
-/*! json-live-data-server_env | Copyright (c) 2013-2018, Daniel Wippermann | MIT license */
+/*! json-live-data-server_env | Copyright (c) 2021, cRemE-fReSh | MIT license */
 'use strict';
 
 
