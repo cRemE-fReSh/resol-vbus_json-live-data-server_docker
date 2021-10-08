@@ -13,13 +13,13 @@ Remark: Will be available after actually running long term tests.<br>
 https://registry.hub.docker.com/r/cftechnologies/vbustowebserver/<br>
 
 ## Docker Environment Variables
-### Description of environment variables
+### Description
 VBUSIP: The host name / IP address of the VBus/LAN or Datalogger device.<br>
 VBUSPASSWORD: The password for the VBus/LAN or Datalogger device.<br>
 HTTPPORT: The port number for the HTTP server to listen to.<br>
 LOGGINGINTERVAL: The inteval in milliseconds between two writes of the logging file.<br>
 
-### Example config for environment variables
+### Example
 VBUSIP=192.168.0.2<br>
 VBUSPASSWORD=vbus<br>
 HTTPPORT=3333<br>
