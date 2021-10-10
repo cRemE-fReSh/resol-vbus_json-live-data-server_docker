@@ -7,9 +7,11 @@ It's a simple webserver to publish data (JSON and prometheus) of an tcp based vb
 Relevant configuration parameters are configurable via docker environment variables. <br>
 There's no need to create a customized docker file per configuration.<br>
 
+## Versioning
+Versioning is analog to resol-vbus version.<br>
+
 ## Docker Hub
 Docker container ready to pull from Docker Hub:<br>
-Remark: Will be available after actually running long term tests.<br>
 https://registry.hub.docker.com/r/cftechnologies/vbustowebserver/<br>
 
 ## Docker Environment Variables
