@@ -9,8 +9,8 @@ There's no need to create a customized docker file per configuration.<br>
 Versioning is analog to resol-vbus version.<br>
 
 ## Docker Hub
-![example workflow](https://github.com/cRemE-fReSh/resol-vbus_json-live-data-server_docker/actions/workflows/docker-image.yml/badge.svg)
-![example workflow](https://github.com/cRemE-fReSh/resol-vbus_json-live-data-server_docker/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/cRemE-fReSh/resol-vbus_json-live-data-server_docker/actions/workflows/docker-image.yml/badge.svg)<br>
+![example workflow](https://github.com/cRemE-fReSh/resol-vbus_json-live-data-server_docker/actions/workflows/main.yml/badge.svg)<br>
 Docker container ready to pull from Docker Hub:<br>
 https://registry.hub.docker.com/r/cftechnologies/vbustowebserver/<br>
 
