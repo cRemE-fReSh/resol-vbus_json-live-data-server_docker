@@ -1,3 +1,5 @@
+# No longer maintained!
+
 # Containerized Resol VBUS to Data Server
 
 Docker containerized version of the json-live-data-server from resol-vbus.<br>
